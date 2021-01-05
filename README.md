@@ -9,10 +9,10 @@
 The news room challenge: We have built three clients served by one API.
 We built a newspaper platform with the user client, the admin client and a user mobile client with React Native.
 
-- [API](https://github.com/emiliano-ma/api_good_morning_news.git)
-- [Mobile](https://github.com/emiliano-ma/mobile_good_morning_news)
-- [Admin](https://github.com/emiliano-ma/client_admin_good_morning_news)
-- [User](https://github.com/emiliano-ma/client_user_good_morning_news.git)
+- [API](https://github.com/FacundoOs/api_good_morning_news)
+- [Mobile](https://github.com/FacundoOs/mobile_good_morning_news)
+- [Admin](https://github.com/FacundoOs/client_admin_good_morning_news)
+- [User](https://github.com/FacundoOs/client_user_good_morning_news)
 
 The project extended throughout 3 sprints of one week duration each. We worked in a team of 4 people.
 
